@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{3BACD1D1-2376-4A84-B230-34EE1F2A5301}|Custom">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GoverAPI/Context/GoverContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoverAPI/Startup.cs">
     <Files>
       <File FileName="GoverAPI/Controllers/AUTHController.cs" Line="1" Column="1" />
       <File FileName="GoverAPI/Controllers/CaisseController.cs" />
@@ -10,7 +10,7 @@
       <File FileName="GoverAPI/BuisnessRules/CaisseS/CaisseService.cs" />
       <File FileName="GoverAPI/BuisnessRules/JourneeDetailS/JourneeDetailService.cs" />
       <File FileName="GoverAPI/BuisnessRules/JourneeDetailS/JourneeDTO.cs" />
-      <File FileName="GoverAPI/Startup.cs" />
+      <File FileName="GoverAPI/Startup.cs" Line="83" Column="18" />
       <File FileName="GoverAPI/Authentication/AuthService.cs" />
       <File FileName="GoverAPI/dotnet" />
       <File FileName="GoverAPI/BuisnessRules/JourneeDetailS/IJourneeDetail.cs" />
@@ -19,7 +19,7 @@
       <File FileName="GoverAPI/Models/Entities/JourneeDetail.cs" />
       <File FileName="GoverAPI/Models/Entities/Mois.cs" />
       <File FileName="GoverAPI/Models/Entities/Users.cs" />
-      <File FileName="GoverAPI/Context/GoverContext.cs" Line="5" Column="1" />
+      <File FileName="GoverAPI/Context/GoverContext.cs" Line="15" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
