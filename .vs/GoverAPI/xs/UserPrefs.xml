@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{3BACD1D1-2376-4A84-B230-34EE1F2A5301}|Custom">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoverAPI/Context/GoverContext.cs">
+    <Files>
+      <File FileName="GoverAPI/Controllers/AUTHController.cs" Line="1" Column="1" />
+      <File FileName="GoverAPI/Controllers/CaisseController.cs" />
+      <File FileName="GoverAPI/Controllers/GlobalController.cs" />
+      <File FileName="GoverAPI/Controllers/JourneeController.cs" />
+      <File FileName="GoverAPI/Controllers/JourneeDetailController.cs" />
+      <File FileName="GoverAPI/Controllers/UsersController.cs" />
+      <File FileName="GoverAPI/BuisnessRules/CaisseS/CaisseService.cs" />
+      <File FileName="GoverAPI/BuisnessRules/JourneeDetailS/JourneeDetailService.cs" />
+      <File FileName="GoverAPI/BuisnessRules/JourneeDetailS/JourneeDTO.cs" />
+      <File FileName="GoverAPI/Startup.cs" />
+      <File FileName="GoverAPI/Authentication/AuthService.cs" />
+      <File FileName="GoverAPI/dotnet" />
+      <File FileName="GoverAPI/BuisnessRules/JourneeDetailS/IJourneeDetail.cs" />
+      <File FileName="GoverAPI/Models/Entities/Caisse.cs" />
+      <File FileName="GoverAPI/Models/Entities/Journee.cs" />
+      <File FileName="GoverAPI/Models/Entities/JourneeDetail.cs" />
+      <File FileName="GoverAPI/Models/Entities/Mois.cs" />
+      <File FileName="GoverAPI/Models/Entities/Users.cs" />
+      <File FileName="GoverAPI/Context/GoverContext.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoverAPI" expanded="True">
+            <Node name="GoverAPI" expanded="True" selected="True">
+              <Node name="BuisnessRules" expanded="True">
+                <Node name="JourneeDetailS" expanded="True" />
+              </Node>
+              <Node name="Context" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/Younes/Desktop/Gover/GoverAPI/GoverAPI/bin/Debug/netcoreapp2.2</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Younes/Desktop/Gover/GoverAPI-1/GoverAPI/BuisnessRules/JourneeDetailS/JourneeDetailService.cs" relfile="GoverAPI/BuisnessRules/JourneeDetailS/JourneeDetailService.cs" line="78" column="1" />
+      <Breakpoint file="/Users/Younes/Desktop/Gover/GoverAPI-1/GoverAPI/BuisnessRules/JourneeDetailS/JourneeDetailService.cs" relfile="GoverAPI/BuisnessRules/JourneeDetailS/JourneeDetailService.cs" line="26" column="1" />
+      <Breakpoint file="/Users/Younes/Desktop/Gover/GoverAPI-1/GoverAPI/Controllers/JourneeDetailController.cs" relfile="GoverAPI/Controllers/JourneeDetailController.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GoverAPI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

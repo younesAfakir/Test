@@ -1,0 +1,46 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoverAPI", "GoverAPI\GoverAPI.csproj", "{3BACD1D1-2376-4A84-B230-34EE1F2A5301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BACD1D1-2376-4A84-B230-34EE1F2A5301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BACD1D1-2376-4A84-B230-34EE1F2A5301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BACD1D1-2376-4A84-B230-34EE1F2A5301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BACD1D1-2376-4A84-B230-34EE1F2A5301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		outputpath = GoverAPI/bin
+		Policies = $0
+		$0.CSharpFormattingPolicy = $1
+		$1.IndentSwitchSection = False
+		$1.NewLinesForBracesInTypes = False
+		$1.NewLinesForBracesInProperties = False
+		$1.NewLinesForBracesInAccessors = False
+		$1.NewLinesForBracesInAnonymousMethods = False
+		$1.NewLinesForBracesInControlBlocks = False
+		$1.NewLinesForBracesInAnonymousTypes = False
+		$1.NewLinesForBracesInObjectCollectionArrayInitializers = False
+		$1.NewLinesForBracesInLambdaExpressionBody = False
+		$1.NewLineForElse = False
+		$1.NewLineForCatch = False
+		$1.NewLineForFinally = False
+		$1.NewLineForMembersInObjectInit = False
+		$1.NewLineForMembersInAnonymousTypes = False
+		$1.NewLineForClausesInQuery = False
+		$1.SpacingAfterMethodDeclarationName = True
+		$1.SpaceAfterMethodCallName = True
+		$1.SpaceBeforeOpenSquareBracket = True
+		$1.scope = text/x-csharp
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 80
+		$2.TabWidth = 8
+		$2.IndentWidth = 8
+		$2.scope = text/plain
+	EndGlobalSection
+EndGlobal
